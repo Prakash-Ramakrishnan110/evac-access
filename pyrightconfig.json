@@ -1,0 +1,8 @@
+{
+  "extraPaths": [
+    "backend",
+    "backend/apps"
+  ],
+  "reportAttributeAccessIssue": false,
+  "reportMissingTypeStubs": false
+}
